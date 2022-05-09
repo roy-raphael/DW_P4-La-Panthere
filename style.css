@@ -680,8 +680,23 @@ p {
     font-size: 11px;
 }
 
+.small-width-whitespace {
+    max-width: 620px;
+    margin: auto auto auto auto;
+}
+
 .tight-width-whitespace {
     max-width: 600px;
+    margin: auto auto auto auto;
+}
+
+.x-tight-width-whitespace {
+    max-width: 550px;
+    margin: auto auto auto auto;
+}
+
+.xx-tight-width-whitespace {
+    max-width: 450px;
     margin: auto auto auto auto;
 }
 
@@ -714,6 +729,15 @@ h3 {
     text-transform: uppercase;
     font-weight: 700;
     color: #333333!important;
+}
+
+blockquote {
+    padding: 0;
+    border: none;
+    font-size: 20px;
+    color: rgb(87, 87, 87);
+    font-style: italic;
+    line-height: 1.15em;
 }
 
 .med-width-whitespace {
