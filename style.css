@@ -763,6 +763,10 @@ h4 {
     color: #FFFFFF!important;
 }
 
+.almostblack {
+    color: #242424 !important;
+}
+
 .portfolio-thumb {
     margin-bottom: 24px;
 }
@@ -802,14 +806,18 @@ h4 {
     color: #F3976C!important;
 }
 
+.tc-white-light {
+    color: #FD9F77!important;
+}
+
 .btn-atomic-tangerine {
     background: #F3976C;
-    color: #FFFFFF!important;
+    color: #242424 !important;
 }
 
 .btn-atomic-tangerine:hover {
     background: #c27956!important;
-    color: #FFFFFF!important;
+    color: #000000 !important;
 }
 
 .ltc-white {
